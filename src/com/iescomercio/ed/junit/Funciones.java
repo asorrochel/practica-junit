@@ -1,6 +1,4 @@
-package com.iescomercio.ed.junit;
-
-import java.util.Scanner;
+package pruebas;
 
 public class Funciones {
 
@@ -344,7 +342,7 @@ public class Funciones {
 
 	public static void main(String[] args) {
 
-		System.out.println(esPalindromo("dabale arroz a la zorra el abad"));
+		System.out.println(esPalindromo("dabale arroz a la zorra el abada"));
 
 	}
 }
